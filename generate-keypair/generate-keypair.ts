@@ -9,6 +9,7 @@ console.log(
   `✅ Finished! We've loaded our secret key securely, using an env file!`
 );
 
+// public key: GsoKVgQ6TBtwBsFCG7TPPf7zhv4qhqoopSt7DRFAVT1B
 
 // Creating the public and private key
 // import { Keypair } from "@solana/web3.js";
